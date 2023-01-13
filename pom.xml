@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mgg</groupId>
 	<artifactId>open-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>open-api</name>
 	<description>Project for Spring Boot Open API</description>
 	<properties>
