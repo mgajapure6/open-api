@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mgg</groupId>
-	<artifactId>spring-open-apis</artifactId>
+	<artifactId>open-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>open-api</name>
 	<description>Project for Spring Boot Open API</description>
